@@ -7,7 +7,7 @@ require Exporter;
 our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(fresnel fresnelMi fresnelKm);
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 sub VERSION { $VERSION; }
 
 our $KILOMETERS_IN_A_MILE = 1.609344;
