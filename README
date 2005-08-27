@@ -1,4 +1,4 @@
-Math/FresnelZone version 0.01
+Math/FresnelZone version 0.03
 =============================
 
 This module calculates the fresnel zone radius for a given distance and frequency.
